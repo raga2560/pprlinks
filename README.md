@@ -1005,223 +1005,439 @@ https://courses.blockgeeks.com/courses/what-is-blockchain
 http://accsindia.org/adcom-2017-blockchain-innovation-jam-session/
 
 https://ratical.org/many_worlds/cc/NMfHC/toc.html
+
 https://goldmint.io/ 
+
 https://readwrite.com/2014/01/24/david-marcus-paypal-money-readwritemix-recap/
+
 http://news.nationalgeographic.com/news/2013/10/131014-bitcoins-silk-road-virtual-currencies-internet-money/
+
 http://www.hayek.sk/future-of-money-3-0/
+
 https://blockgeeks.com/guides/blockchain-applications/
+
 https://www.quora.com/What-do-you-think-is-the-future-of-Blockchain-in-the-next-5-10-years?share=fd583118&srid=LEqP
+
 http://www.money20.org/
+
 http://www.energymatters.com.au/renewable-news/blockchain-boosts-green-energy-trading/
+
 http://www.coindesk.com/multichain-build-ownblockchain-banks/
+
 https://www.fastcompany.com/3025700/how-to-create-your-own-cryptocurrency
+
 https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
+
 https://www.networkworld.com/article/3212765/internet-of-things/4-key-areas-where-blockchain-can-transform-iot.html
+
 https://developer.ibm.com/courses/all/blockchain-essentials/
- http://davidederosa.com/basic-blockchain-programming/
- https://developer.ibm.com/messaging/2017/08/31/aws-quick-start-ibm-mq/
+
+http://davidederosa.com/basic-blockchain-programming/
+
+https://developer.ibm.com/messaging/2017/08/31/aws-quick-start-ibm-mq/
+
 https://www.cnbc.com/2017/09/04/chinese-icos-china-bans-fundraising-through-initial-coin-offerings-report-says.html
+
 https://www.cnbc.com/2017/09/04/bitcoin-digital-currency-price-falls-on-china-ico-ban.html
+
 https://www.npmjs.com/package/otplib
+
 https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/57875
+
 http://economictimes.indiatimes.com/small-biz/startups/how-data-analytics-companies-can-foretell-riots-pakistani-incursions/articleshow/60369257.cms
+
 https://github.com/bitpay/bitauth
+
 https://siliconangle.com/blog/2017/09/03/china-bans-initial-coin-offerings-pending-review/
+
 https://www.multichain.com/blog/2016/07/announcing-the-new-multichain-wallet/
+
 https://www.multichain.com/qa/4962/crypto-currency-vs-assets
+
 https://www.altoros.com/course/blockchain-hyperledger/advanced-training-hyperledger-fabric-3-days.html 
- http://github.com/bitpay/cordova-sdk 
-  https://github.com/socketio/socket.io/tree/master/examples
-  http://chimera.labs.oreilly.com/books/1234000001802/index.html
-  https://m.rediff.com/business/report/algo-trading-will-soon-be-under-sebi-scanner/20170901.htm?src=whatsapp&pos=money 
-  http://www.scmp.com/property/article/2097573/rules-buying-home-thailand-easy-guide-purchasing-property-foreigners
-   https://www.krungsri.com/bank/en/krungsri-guru/guru/wealth/november-2015/thai-laws-for-renting-and-owning-property.html
-   https://www.multichain.com/blog/2016/04/beware-impossible-smart-contract/
-   https://github.com/raga2560/dealmaker
-   http://tlabs.in/fintech/
-   https://www.meetup.com/JaagaStartup/events/242982239/
-   http://tlabs.in/fintech/
-   https://www.analyticsvidhya.com/blog/2017/08/visualizations-with-d3-js
-    https://m.rediff.com/news/report/app-developers-read-this-before-sharing-users-data/20170830.htm?src=whatsapp&pos=news
+
+
+http://github.com/bitpay/cordova-sdk 
+
+https://github.com/socketio/socket.io/tree/master/examples
+
+http://chimera.labs.oreilly.com/books/1234000001802/index.html
+
+https://m.rediff.com/business/report/algo-trading-will-soon-be-under-sebi-scanner/20170901.htm?src=whatsapp&pos=money 
+
+http://www.scmp.com/property/article/2097573/rules-buying-home-thailand-easy-guide-purchasing-property-foreigners
+
+https://www.krungsri.com/bank/en/krungsri-guru/guru/wealth/november-2015/thai-laws-for-renting-and-owning-property.html
+
+https://www.multichain.com/blog/2016/04/beware-impossible-smart-contract/
+
+https://github.com/raga2560/dealmaker
+
+http://tlabs.in/fintech/
+
+
+https://www.meetup.com/JaagaStartup/events/242982239/
+
+http://tlabs.in/fintech/
+
+https://www.analyticsvidhya.com/blog/2017/08/visualizations-with-d3-js
+
+https://m.rediff.com/news/report/app-developers-read-this-before-sharing-users-data/20170830.htm?src=whatsapp&pos=news
+
 http://www.ey.com/gl/en/newsroom/news-releases/news-ey-advancing-future-of-transportation-with-launch-of-blockchain-based-integrated-mobility-platform
+
 http://byteacademy.co/hiring/
+
 https://cloudplatformonline.com/Summit-Bengaluru-2017-Partners.html
+
 https://en.wikipedia.org/wiki/Subprime_mortgage_crisis
+
 https://www.thebalance.com/mortgage-backed-securities-types-how-they-work-3305947
- https://blockchainzoo.com/
- https://aadhaarapi.com/aadhaar-web-integration/
- https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
- https://davidwalsh.name/websocket
- https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets
-  https://github.com/bitcoinjs/bitcoinjs-lib/ 
-  https://www.tutorialspoint.com/angular2/angular2_questions_answers.htm
-  http://davidederosa.com/basic-blockchain-programming/
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-912-introduction-to-copyright-law-january-iap-2006/video-lectures/lecture-4-software-licensing/
-  https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2
-  https://github.com/bitcoin/bitcoin/tree/master/src/test
-  https://www.youtube.com/watch?v=MGjRiinm67o
-  http://www.insidefintechconference.com/seoul/2017/become-speaker
-  https://courses.fee.org/courses/economics-in-one-day
-  https://Fee.org
-  https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/
-  https://ionicthemes.com/tutorials
-  https://latoken.com/presentation/?utm_source=facebook&utm_medium=cpc&utm_campaign=M_fb_leads_apple.gold_text
-  https://medium.com/@carlosverdes/guide-to-develop-with-mean-mongo-express-angularjs-and-nodejs-the-environment-c202e17e5732
-  https://hackathon.ibuildapp.io
-  https://m.rediff.com/business/column/how-about-a-think-for-india-campaign/20170817.htm
-  https://aswathdamodaran.blogspot.in/2017/08/the-crypto-currency-debate-future-of.html
-  https://www.producthunt.com/posts/500-coins
-  https://lugassy.net/why-im-dumping-firebase-for-web-cd64a78cb43e
-  https://github.com/spectrum/spectrum
-  https://www.multichain.com/qa/5215/multichain-on-raspberry-pi
-  https://www.youtube.com/watch?v=FWPA8Cf5NnY&t=6s
-  https://www.youtube.com/watch?v=q5viY5gEaWY&t=26s
-  https://aws.amazon.com/python/
-  https://www.edx.org/course/data-analysis-social-scientists-mitx-14-310x-2
-  
+
+https://blockchainzoo.com/
+
+https://aadhaarapi.com/aadhaar-web-integration/
+
+https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
+
+https://davidwalsh.name/websocket
+
+https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets
+
+
+https://github.com/bitcoinjs/bitcoinjs-lib/ 
+
+https://www.tutorialspoint.com/angular2/angular2_questions_answers.htm
+
+http://davidederosa.com/basic-blockchain-programming/
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-912-introduction-to-copyright-law-january-iap-2006/video-lectures/lecture-4-software-licensing/
+
+https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2
+
+https://github.com/bitcoin/bitcoin/tree/master/src/test
+
+https://www.youtube.com/watch?v=MGjRiinm67o
+
+http://www.insidefintechconference.com/seoul/2017/become-speaker
+
+https://courses.fee.org/courses/economics-in-one-day
+
+https://Fee.org
+
+https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/
+
+https://ionicthemes.com/tutorials
+
+https://latoken.com/presentation/?utm_source=facebook&utm_medium=cpc&utm_campaign=M_fb_leads_apple.gold_text
+
+https://medium.com/@carlosverdes/guide-to-develop-with-mean-mongo-express-angularjs-and-nodejs-the-environment-c202e17e5732
+
+https://hackathon.ibuildapp.io
+
+https://m.rediff.com/business/column/how-about-a-think-for-india-campaign/20170817.htm
+
+https://aswathdamodaran.blogspot.in/2017/08/the-crypto-currency-debate-future-of.html
+
+https://www.producthunt.com/posts/500-coins
+
+https://lugassy.net/why-im-dumping-firebase-for-web-cd64a78cb43e
+
+https://github.com/spectrum/spectrum
+
+https://www.multichain.com/qa/5215/multichain-on-raspberry-pi
+
+https://www.youtube.com/watch?v=FWPA8Cf5NnY&t=6s
+
+https://www.youtube.com/watch?v=q5viY5gEaWY&t=26s
+
+https://aws.amazon.com/python/
+
+https://www.edx.org/course/data-analysis-social-scientists-mitx-14-310x-2
   
 
 https://aws.amazon.com/getting-started/projects/deploy-python-application/
   
 https://aws.amazon.com/blogs/aws/choosing-the-right-ec2-instance-type-for-your-application/
+
 https://aws.amazon.com/products/databases/
+
 https://aws.amazon.com/choosing-a-cloud-platform/
+
 https://qz.com/1050844/the-tech-industry-is-hiring-israeli-engineers-as-fast-as-the-army-can-produce-them
+
 https://coinmarketcap.com/currencies/pura/
+
 https://slock.it/
+
 https://nocodemvp.com/
+
 https://github.com/masonicGIT/ico-whitepapers 
+
 https://www.airpair.com/firebase 
+
 https://www.worldtable.co/
+
 https://techcrunch.com/2017/08/10/microsoft-wants-to-make-blockchain-networks-enterprise-ready-with-its-new-coco-framework/
+
 https://thenextweb.com/in/2017/08/09/india-has-blocked-the-internet-archive-nationwide-and-wont-say-why/#.tnw_er3chaz3
+
 https://www.youtube.com/watch?v=rlGhL1B7m30&feature=youtu.be
+
 https://www.tresconglobal.com/blockchain/book-tickets/
+
 https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
+
 https://en.wikipedia.org/wiki/Stack_Exchange#Site_creation_process
- https://medium.com/the-mission/adopting-these-powerful-morning-routines-will-make-you-mentally-strong-684c35075467
+
+https://medium.com/the-mission/adopting-these-powerful-morning-routines-will-make-you-mentally-strong-684c35075467
+
 https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0 
+
 https://drive.google.com/open?id=0ByAzjpFRrlpeQWUyRUZXZUFlakk
+
 https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe
+
 https://ionicthemes.com/tutorials/about/google-plus-login-with-ionic-framework
+
 https://youtu.be/G3psxs3gyf8
+
 https://m.yourstory.com/2017/07/ultimate-3500-word-guide-plain-english-understand-blockchain
+
 https://medium.com/@parasmamgain/bit-shares-a672911c3cf
+
 https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+
 https://www.theregister.co.uk/2017/07/13/bitcoins_might_just_vanish_into_the_ether/?mt=1500082217151
+
 http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
+
 https://docs.google.com/spreadsheets/d/1jECwhJmDb6qEhVSVvIb2EJ00oraZBs_QDWuvdig2SnE/edit#gid=0
+
 http://RSK.co
+
 https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3d7c4004121b 
+
 https://bravenewcoin.com/news/moodys-new-report-identifies-25-top-blockchain-use-cases-from-a-list-of-120/
+
 https://blog.wavesplatform.com/first-blockchain-social-platform-launched-based-on-waves-35894d5f202
+
 https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf
+
 https://github.com/getify/You-Dont-Know-JS
+
 http://chimera.labs.oreilly.com/books/1234000000262/index.html
+
 http://greatgameindia.com
+
 https://docs.wixstatic.com/ugd/3c35cd_78f9957e529a44a2a249bef04e450eb1.pdf 
+
 https://youtu.be/y2X7c9TUQJ8
+
 http://unchaintheframe.com/  
+
 http://www.investopedia.com/news/ether-trader-made-more-200-million-one-month-ethereum-cryptocurrency
+
 https://www.linkedin.com/pulse/gentle-introduction-initial-coin-offerings-icos-antony-lewis
+
 https://www.linkedin.com/pulse/so-you-want-use-blockchain-antony-lewis
+
 https://entethalliance.org/enterprise-ethereum-alliance-becomes-worlds-largest-open-source-blockchain-initiative/
+
 http://dermatoglyphics.org/
+
 http://blog.ionic.io/announcing-creator-ionic-3-support-and-whats-coming-next/
- https://github.com/ionic-team/ionic-conference-app
+
+https://github.com/ionic-team/ionic-conference-app
+
 https://codepen.io/ionic/pens/public/?grid_type=list
- https://www.youtube.com/watch?v=O2WiI9QrS5s&feature=youtu.be
- http://fortune.com/2016/03/22/artificial-intelligence-nvidia/
+
+https://www.youtube.com/watch?v=O2WiI9QrS5s&feature=youtu.be
+
+http://fortune.com/2016/03/22/artificial-intelligence-nvidia/
+
 https://youtu.be/gJEzuYynaiw
+
 https://www.ibm.com/think/fintech/digitizing-wealth-solution/
+
 https://blog.parity.io/security-alert-high-2/
+
 https://www.analyticsvidhya.com/blog/2017/07/beginner-guide-build-data-visualisations-web-d3-js
+
 https://blog.everex.io/chainy-has-been-succesfully-integrated-to-the-rsk-testnet-529d929da652
+
 http://newatlas.com/gravitational-anomaly-observed/50559
+
 https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html
+
 https://devdactic.com/case-study-image-ionic-firebase/
+
 https://medium.com/@prahaladbelavadi/down-the-markdown-rabbit-hole-5f766a5fc67
+
 https://developer.ibm.com/courses/all/blockchain-essentials/  
+
 https://www.ibm.com/blockchain/hyperledger.html#s-2
+
 https://medium.com/@benedictchan/building-the-world-s-first-open-source-multi-sig-bitcoin-exchange-a6f1221eff46 
+
 https://www.draglet.com/blog/how-to-start-your-bitcoin-exchange
+
 https://www.multichain.com/developers/atomic-exchange-transactions
+
 https://vinnylingham.com/why-tokens-are-eating-the-world-b4174235c87b
+
 http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html
+
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+
 https://www.throughbit.com
+
 http://www.ingenesist.com/proof-of-work-vs-proof-of-performance/
+
 https://opentimestamps.org 
+
 http://www.ingenesist.com/identity-verification-on-blockchain/
+
 https://decentralize.today/if-you-understand-hash-functions-youll-understand-blockchains-9088307b745d
+
 https://letstalkpayments.com/22-companies-leveraging-blockchain-for-identity-management-and-authentication/
+
 https://letstalkpayments.com/12-companies-leveraging-blockchain-for-identification-and-authentication/
+
 https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
+
 https://youtu.be/k53LUZxUF50
+
 https://tokenmarket.net/ico-calendar
+
 http://www.investopedia.com/terms/i/initial-coin-offering-ico.asp
+
 https://medium.com/@cameronmclain/a-brief-history-of-blockchain-an-investors-perspective-387c440ad11c
+
 https://goo.gl/LpWN1V
+
 https://drive.google.com/open?id=0ByAzjpFRrlpeOGN0eUhjUmRtQ28
+
 https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/blockchain-technology-9-benefits-and-7-challenges.html
+
 https://www.rsaconference.com/blogs/blockchain-the-next-frontier-for-cyber-security/
+
 https://techcrunch.com/2016/12/05/how-blockchain-can-help-fight-cyberattacks/
+
 https://venturebeat.com/2017/01/22/blockchains-brilliant-approach-to-cybersecurity/
+
 https://techcrunch.com/2017/06/01/brave-ico-35-million-30-seconds-brendan-eich/
+
 https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
+
 https://m.rediff.com/getahead/report/career-how-tim-cook-steve-jobs-respond-to-cold-e-mails/20170704.htm?src=whatsapp&pos=getahead
+
 https://portswigger.net/burp/help/proxy_using.html
+
 https://m.rediff.com/getahead/report/career-how-to-work-under-a-boss-you-hate/20170707.htm?src=whatsapp&pos=getahead
+
 https://m.rediff.com/business/column/the-real-secret-about-indian-start-ups/20170707.htm?src=whatsapp&pos=money
+
 https://www.npmjs.com/package/javascript-opentimestamps
+
 https://www.cryptocoinsnews.com/bitcoin-wi-fi-system-enables-payments-sharing-internet/
+
 http://www.boingo.com/retail/boingo-uk-ireland/
+
 https://medium.com/the-mission/10-habits-that-change-boys-into-men-3f434453a3d2#8c9d
+
 https://cognitivebuilder.com/ 
+
 https://www.nytimes.com/2017/06/28/technology/tech-jobs-skills-college-degree.html
+
 https://www.usatoday.com/story/tech/columnist/2016/12/13/we-need-fill-new-collar-jobs-employers-demand-ibms-rometty/95382248/
+
 http://www.businessinsider.com/skills-that-will-improve-all-aspects-of-your-life-2017-5?IR=T
+
 https://m.rediff.com/business/report/the-race-to-adopt-artificial-intelligence/20170704.htm?src=whatsapp&pos=money
- http://www.thomasmaximini.com/2015/02/10/speeding-up-ionic-app-development-with-gulp.html 
+
+http://www.thomasmaximini.com/2015/02/10/speeding-up-ionic-app-development-with-gulp.html 
+
 https://datahack.analyticsvidhya.com/contest/fractal-analytics-hiring-hackathon
+
 https://medium.com/unchained-reports/bancor-unchained-all-your-token-are-belong-to-us-d6bb00871e86
+
 http://www.reapbenefit.org/local-solutions/
+
 https://egghead.io/courses/angular-material-introduction
+
 http://www.techquark.com/2017/06/blockchain-developers-guide-use-cases.html
+
 https://github.com/ArabianChain/dbix-stratum-proxy
+
 http://www.multichain.com/blog/2016/05/four-genuine-blockchain-use-cases/
+
 https://www.slideshare.net/coinspark/bitcoin-2-and-opreturns-the-blockchain-as-tcpip
+
 http://www.multichain.com/blog/2016/12/spot-half-baked-blockchain/
+
 http://www.multichain.com/blog/2015/11/avoiding-pointless-blockchain-project/
+
 https://www.mapusoft.com/os-changer-porting-kit/
+
 https://m.rediff.com/business/report/us-launches-incubator-programme-to-mentor-indian-start-ups/20170608.htm?src=whatsapp&pos=money
+
 https://www.dawn.com/news/1337997
+
 https://yourstory.com/2017/06/iot-startups-water
+
 https://hyperledger.github.io/composer/introduction/introduction.html 
+
 http://www.goodworklabs.com/hiring-react-js-and-react-native-developers/
+
 https://www.nexiot.com/collaborate
+
 http://www.sciencealert.com/scientists-have-found-a-way-to-photograph-people-through-walls-using-wifi
+
 https://github.com/debianmaster/ionic-music-app
+
 https://github.com/homerours/cosmic
+
 http://www.chillispot.org
+
 https://www.djamware.com/post/58e0d15280aca75cdc948e4e/building-chat-application-using-mean-stack-angular-4-and-socketio
- http://productleadersforum.org/showcase/
+
+http://productleadersforum.org/showcase/
+
 http://sysadmin.in.th/node/272
+
 http://www.chillispot.org/
+
 http://www.ubuntubuzz.com/2012/04/easyhotspot-open-source-hotspot.html
+
 https://sourceforge.net/directory/os:windows/?q=hotspot+billing+system
+
 https://www.hackthebox.gr/en
+
 https://m.rediff.com/business/report/let-algos-make-money-for-you-in-stocks/20170517.htm?src=whatsapp&pos=money
+
 https://www.cryptocoinsnews.com/chinese-internet-giant-tencent-to-develop-a-blockchain-platform/
+
 https://www.youtube.com/watch?v=86jqAfySi64
+
 https://medium.com/@prahaladbelavadi/how-much-do-moocs-benefit-the-economy-62432227d1dd
+
 https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge
- https://respectonomy.com/
- https://www.ethnews.com/hyperledger-fails-ethereum-integration-due-to-licensing-conflicts
- https://info.shapeshift.io/tools/skeleton
- https://cordova.apache.org/docs/en/2.5.0/cordova/device/device.uuid.html
+
+https://respectonomy.com/
+
+https://www.ethnews.com/hyperledger-fails-ethereum-integration-due-to-licensing-conflicts
+
+https://info.shapeshift.io/tools/skeleton
+
+https://cordova.apache.org/docs/en/2.5.0/cordova/device/device.uuid.html
+
 http://ethereum.stackexchange.com/questions/1777/workflow-on-signing-a-string-with-private-key-followed-by-signature-verificatio
+
 http://ethereum.stackexchange.com/questions/2660/how-can-i-verify-a-signature-with-the-web3-javascript-api/2866
+
 http://forum.ethereum.org/discussion/1987/ethereum-offline-wallet
+
 http://highscalability.com/blog/2016/12/14/ask-high-scalability-how-to-build-anonymous-blockchain-commu.html
+
 https://www.myetherwallet.com/#offline-transaction
